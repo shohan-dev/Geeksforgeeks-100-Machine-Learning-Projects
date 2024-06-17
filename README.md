@@ -20,7 +20,6 @@ To get started, simply navigate to the project of your choice in its respective 
 
 ## Contribution
 Feel free to contribute to this repository by adding new projects, improving existing ones, or suggesting enhancements. Your contributions help make this resource more valuable for the community.
-
 ## Resources
 - [Geeksforgeeks Machine Learning Projects](https://www.geeksforgeeks.org/machine-learning-projects/?ref=lbp&fbclid=IwAR3mRY12TPWWZUSAkMtBTwLWoG-Z3j3HDMwGOcAgwEEEL3G9-2lTTvl-TAI_aem_AUflKNIHv83PfN3xogNaACizjVQRhiQhvWc41eO74x4OMRMo-kHoKx_Zair7osYchU3A_hFtoCXDYHdOnPGc1Kve) - Visit the Geeksforgeeks website for more machine learning projects and tutorials.
 
