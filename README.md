@@ -1,6 +1,6 @@
 # Geeksforgeeks 100+ Machine Learning Projects
 
-Welcome to the Geeksforgeeks repository containing over 100 machine learning projects! Each problem is solved individually and organized into separate folders for easy access.
+Welcome to the Geeksforgeeks repository containing over 100 Machine Learning projects! Each problem is solved individually and organized into separate folders for easy access.
 
 ## Overview
 Machine learning is an exciting field with countless applications across various domains. Whether you're a beginner or an experienced practitioner, these projects offer a great opportunity to enhance your skills and delve deeper into the world of artificial intelligence.
